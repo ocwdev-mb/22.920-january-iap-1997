@@ -1,0 +1,17 @@
+leftnav:
+- identifier: f3a39423-d392-b28c-9bc8-5aff71414881
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 549c9d53-e0c2-e6ce-10ae-3c05b6578dc0
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: 7675cf71-28db-9477-c7df-6e5a95f244a0
+  name: Labs
+  pageRef: /pages/labs
+  weight: 30
+- identifier: 8b9ede12-22d7-0c1b-fe46-711b03026eb4
+  name: Animations
+  pageRef: /pages/animations
+  weight: 40
